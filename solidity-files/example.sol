@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: GPL-3.0
+// SPDX-License-Identifier: UNLICENSED
 
 pragma solidity ^0.8.22;
 
@@ -11,9 +11,5 @@ contract Inbox {
 
     function setMessage(string memory newMessage) public {
         message = newMessage;
-    }
-
-    function getMessage() public view returns (string memory) {
-        return message;
     }
 }
