@@ -3,6 +3,9 @@
 * Function type:
 ![[Function-2.png]]
 
+* Contract Function:
+![[Function-3.png]]
+
 ## References:
 
 
