@@ -3,6 +3,4 @@
 
 ## References:
 
-1.
-
 #solidity #blockchain #ethereum #testing
